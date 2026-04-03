@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://cyberopsdashboard.vercel.app/login
+**URL**: https://cyberopsdashboard.vercel.app/
 
 **Use your preferred IDE**
 
